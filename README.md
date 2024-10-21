@@ -44,7 +44,7 @@ echo ""
 echo "<html><body><h1>Resultado do Comando:</h1><pre>$(echo $SHELL)</pre></body></html>"
 ```
 
-##index.html
+## index.html
 
 Esta é a página inicial que apresenta um link para executar o comando.
 
@@ -57,7 +57,7 @@ Esta é a página inicial que apresenta um link para executar o comando.
 </html>
 ```
 
-##Como Usar
+## Como Usar
 
 Clone este repositório:
 
@@ -80,7 +80,7 @@ Inicie o servidor:
 
 Acesse http://localhost:8080 em seu navegador para ver a página inicial. Clique no link para executar o comando e visualizar o resultado.
 
-##Observações
+## Observações
 
 Certifique-se de ter o netcat (nc) instalado, pois ele é utilizado para escutar as requisições HTTP.
 Este servidor é apenas uma simulação e não deve ser utilizado em ambientes de produção, pois não possui medidas de segurança adequadas.
