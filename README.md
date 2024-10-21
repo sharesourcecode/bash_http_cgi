@@ -87,7 +87,6 @@ Este servidor é apenas uma simulação e não deve ser utilizado em ambientes d
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License.
-text
+Este projeto está licenciado sob a MIT License
 
 Sinta-se à vontade para ajustar qualquer parte do texto conforme necessário!
