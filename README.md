@@ -84,3 +84,10 @@ Acesse http://localhost:8080 em seu navegador para ver a página inicial. Clique
 
 Certifique-se de ter o netcat (nc) instalado, pois ele é utilizado para escutar as requisições HTTP.
 Este servidor é apenas uma simulação e não deve ser utilizado em ambientes de produção, pois não possui medidas de segurança adequadas.
+
+## Licença
+
+Este projeto está licenciado sob a MIT License.
+text
+
+Sinta-se à vontade para ajustar qualquer parte do texto conforme necessário!
